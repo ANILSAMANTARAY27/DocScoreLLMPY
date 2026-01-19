@@ -1,1 +1,1 @@
-# DocScoreLLMPY yyyy
+# DocScoreLLMPY
